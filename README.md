@@ -345,7 +345,7 @@ MIT License - feel free to use in your projects!
 
 - **Issues**: Open a GitHub issue
 - **Questions**: Use GitHub Discussions
-- **Email**: your-email@example.com
+- **Email**: adarshaduu8055@gmail.com
 
 ## 🚀 Roadmap
 
