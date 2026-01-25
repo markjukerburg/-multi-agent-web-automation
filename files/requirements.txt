@@ -1,0 +1,37 @@
+# Multi-Agent Web Automation System
+# Requirements
+
+# Core Framework
+playwright==1.40.0
+asyncio==3.4.3
+
+# LLM Providers
+openai==1.10.0
+anthropic==0.18.1
+
+# Image Processing
+opencv-python==4.9.0.80
+pytesseract==0.3.10
+Pillow==10.2.0
+
+# Type Safety & Validation
+pydantic==2.5.3
+
+# State Management
+redis==5.0.1
+aioredis==2.0.1
+
+# Utilities
+python-dotenv==1.0.0
+aiofiles==23.2.1
+
+# Logging & Monitoring
+loguru==0.7.2
+
+# Optional: Alternative browsers
+selenium==4.17.2
+
+# Development
+pytest==7.4.4
+pytest-asyncio==0.23.3
+black==24.1.1

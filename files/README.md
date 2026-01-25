@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 Hierarchical Multi-Agent Web Automation System
 
 A production-ready web automation system using hierarchical multi-agent architecture, inspired by OpenAI's Operator. This system uses vision-language models to understand web pages and autonomously complete complex tasks.
@@ -360,6 +359,3 @@ MIT License - feel free to use in your projects!
 ---
 
 **Built with ❤️ for autonomous web automation**
-=======
-
->>>>>>> c68ab4fccb3bada39732dbbfe8b7f87dc992b4a3
